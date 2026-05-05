@@ -169,12 +169,12 @@ FairFace-2/
 ### External libraries used:
 
 | Library | Use |
-|---|---|---|
+|---|---|
 | `pandas` | CSV loading, groupby, value_counts, sampling |
 | `numpy` | Array indexing, argmax |
-| `matplotlib` | All plots, imshow, colorbar |
+| `matplotlib` | All visualizations, imshow, colorbar |
 | `scikit-learn` | LabelEncoder, classifiers, accuracy_score, confusion_matrix |
-| `imbalanced-learn` | SMOTE |
+| `imbalanced-learn` | SMOTE implementation |
 
 ---
 
